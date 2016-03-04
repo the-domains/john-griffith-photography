@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.4467048
+  lightness: 0.7868271
+  brandStrength: 0.3023576
+  rhythmicContrast: 0.9837698
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+typography_spectrum: 0.143795
+name: 'John Griffith Photography '
