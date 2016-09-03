@@ -1,14 +1,26 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.4467048
-  lightness: 0.7868271
   brandStrength: 0.3023576
-  rhythmicContrast: 0.9837698
+  lightness: 0.3066595
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+  rhythmicContrast: 0.6278195
 typography_spectrum: 0.143795
+layout_spectrum: 1
 name: 'John Griffith Photography '
